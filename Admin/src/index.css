@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ets-navy: #1a2332;
+  --color-ets-gold: #c9a227;
+  --color-ets-cream: #f5f0e8;
+}
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background-color: #f9fafb;
+  }
+}
